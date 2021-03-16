@@ -1,0 +1,12 @@
+@import './variables';
+@import './header';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contact button {
+  background-color: $primaryBtn;
+}

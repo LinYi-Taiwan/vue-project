@@ -1,0 +1,16 @@
+.pad_right {
+  padding-left: 15px;
+}
+#scroll_div {
+  height: 26px;
+  line-height: 26px;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  background: #ccc;
+  color: #e20f0b;
+}
+#scroll_begin,
+#scroll_end {
+  display: inline;
+}
